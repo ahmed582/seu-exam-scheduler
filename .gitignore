@@ -1,0 +1,5 @@
+node_modules/
+dist/
+test-data.csv
+*.tsbuildinfo
+.DS_Store
